@@ -1,0 +1,16 @@
+/* Button CSS file */
+
+.btn-green {
+  display: inline-block;
+  background: #6AD58B;
+  color: white;
+  padding: 15px 35px;
+  border-radius: 50px;
+  opacity: 0.8;
+  transition: background 0.3s ease;
+  font-weight: bold
+}
+
+.btn-green:hover {
+  background: #87255F;
+}
